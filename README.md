@@ -1,11 +1,3 @@
 
   # Shared Taxi Booking Platform
-
-  This is a code bundle for Shared Taxi Booking Platform. The original project is available at https://www.figma.com/design/j7GKImYjQa6RP3L1eVxl46/Shared-Taxi-Booking-Platform.
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+We are developing a platform that digitizes and automates shared taxi rides between cities in uzbekistan. The key challenges we’re addressing are safety, trust, and efficiency in long-distance rides. Drivers currently must gather passengers themselves, which is risky—both for passengers and for drivers—since there’s no verification or easy way to review drivers. So, our AI-powered solution will let users seamlessly book rides online, with real-time driver matching. Every driver will have a profile, and customers can leave reviews, so accountability is built in. Additionally, we will implement a ranking system: the higher the driver’s rating, the more likely they are to get matched with customers. This ensures the best-rated drivers are prioritized, and it boosts trust. The AI will also handle route optimization, dynamic pricing, and demand prediction, so the entire process is smooth, fair, and safe. This will let travelers confidently book rides, and drivers will have a structured way to grow their customer base.
